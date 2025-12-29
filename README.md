@@ -1,4 +1,4 @@
-<h1>Node Inforamational Site for TOP</h1>
+<h1>Node Informational Site for TOP</h1>
 <h2>Tools</h2>
 <ul>
   <li>HTML</li>
